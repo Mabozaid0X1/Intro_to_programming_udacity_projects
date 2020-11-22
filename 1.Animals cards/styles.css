@@ -1,0 +1,37 @@
+/* add your CSS here */
+    span {
+          font-size:15px;
+         color:blue; }
+    li {
+     color:whitesmoke;
+    list-style:none;  }
+    p {
+        text-align: justify;
+       color:black;
+       margin:7px;
+     }
+    .container { 
+         width: 320px;
+        height: 650px;
+        border: 1px solid black;
+        margin-left: 600px; 
+        display:flex;
+        Flex-wrap:wrap;
+      }
+       .wight {
+            background: #ffff}
+             .box{
+                   width: 300px;
+                  height: 320px;
+                  text-align: center;
+                  font-size: 13px;
+                  font-weight: bold;
+                  font-family: sans-serif;
+                  border:1px solid  black;
+                  margin-left:10px;
+                 }
+    img { 
+        margin-left:10px; 
+    margin-bottom:10px;
+     }
+          body { background:rgba(247, 208, 123, 0.932) }
